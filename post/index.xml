@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on HuKang&#39;s Notes</title>
+    <link>https://khuworld.com/post/</link>
+    <description>Recent content in Posts on HuKang&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 15 Feb 2023 21:47:32 +0800</lastBuildDate><atom:link href="https://khuworld.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇博客</title>
+      <link>https://khuworld.com/post/2023-02-15-first-blog/</link>
+      <pubDate>Wed, 15 Feb 2023 21:47:32 +0800</pubDate>
+      
+      <guid>https://khuworld.com/post/2023-02-15-first-blog/</guid>
+      <description>朋友你好啊，欢迎来到我的个人网站，祝你每一天都开开心心。</description>
+    </item>
+    
+  </channel>
+</rss>
